@@ -5,6 +5,7 @@ CVRP is a VRP in which vehicles with limited carrying capacity need to pick up o
 ## Goal
 
 Determine the optimal route for a vehicle to deliver goods to customers while fulfilling various constraints.
+Combine three of the algorithms into one, making a hybrid
 
 ## Methods used
 
